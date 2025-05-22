@@ -1,4 +1,5 @@
-- [x] Faire les courses
-- [ ] Lire un livre
-- [ ] Appeler un ami
-- [ ] Préparer le dîner
+- [x] Faire les courses [Courses]
+- [ ] Lire un livre [Personnel]
+- [ ] Appeler un ami [Personnel]
+- [ ] Préparer le dîner [Personnel]
+- [ ] Envoyer un email [Travail]
