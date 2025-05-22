@@ -1,3 +1,4 @@
-- [ ] Faire les courses
+- [x] Faire les courses
 - [ ] Lire un livre
 - [ ] Appeler un ami
+- [ ] Préparer le dîner
